@@ -11,6 +11,7 @@ Em seguida siga o passo-a-passo abaixo:
 
 Para executar é necessário ter o Python instalado em seu computador
 Link para download: https://www.python.org/downloads/
+
 Clique com o botão direito na questão desejada e escolha a opção
 "Edit with IDLE 3.10". 
 Assim que a janela do IDLE abrir, na parte de cima clique em "RUN" e depois
