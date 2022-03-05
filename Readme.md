@@ -8,6 +8,7 @@ Execução:
 
 Primeiramente clone o respositório.
 Em seguida siga o passo-a-passo abaixo:
+
 Para executar é necessário ter o Python instalado em seu computador
 Link para download: https://www.python.org/downloads/
 Clique com o botão direito na questão desejada e escolha a opção
